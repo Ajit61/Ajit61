@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siva Ajit</h1>
 <h3 align="center">I am the Tortoise working with the Hare to find the loop.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajit61&label=Profile%20views&color=0e75b6&style=flat" alt="ajit61" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajit61&label=Profile%20views&color=0e75b6&style=flat" alt="ajit61" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajit61" alt="ajit61" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajit61" alt="ajit61" /></a> </p> -->
 
 - 🔭 I’m currently working on **Web Development**
 
